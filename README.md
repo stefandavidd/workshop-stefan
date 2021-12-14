@@ -1,0 +1,14 @@
+# VISMA Cloud Operations Workshop
+- Workshop repository
+    - https://github.com/visma-raet/visma-raet-ops-teamup-workshop
+- Subscription information
+    - **Name:** Raet Experimental
+    - **ID:** e9a8847c-01a3-4abc-ad63-1411c13ab199
+- Goals
+    - Create required resources (Resource Group, App Service Plan, App Service and Azure SQL DB)
+        - Use the smallest SKU's to avoid high-costs in Azure
+    - Clone the repositories
+    - Set up your own repositories and push the cloned code
+    - Set up deployment pipelines to the created Azure resources
+    - Test the deployment pipelines
+    - Test the web application
